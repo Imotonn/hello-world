@@ -15,5 +15,6 @@ struct Hello_WorldApp: App {
         }
         // new comment
         // added second comment
+        // added a third comment
     }
 }
