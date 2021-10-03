@@ -14,5 +14,6 @@ struct Hello_WorldApp: App {
             ContentView()
         }
         // new comment
+        // added second comment
     }
 }
