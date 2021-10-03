@@ -13,5 +13,6 @@ struct Hello_WorldApp: App {
         WindowGroup {
             ContentView()
         }
+        // new comment
     }
 }
